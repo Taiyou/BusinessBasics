@@ -3,18 +3,25 @@
 - Uncertainties
 - Unknown risks
 - Known facts
+Answer: Known facts
 
 # Q2. Which of the following is not a condition that has to hold in order to create value in innovation?
 - The cost to deliver the solution must decline overtime
 - The customer has to be willing to pay more for the solution than the cost to deliver it
 - The need has to be real
 - The solution has to meet the need
+- Answer: The cost to deliver the solution must decline overtime
+Value Creation in Innovation has three points.
+- 1. Is the need real?
+- 2. Does the solution meet the need?
+- 3. Is the "customer" willing to pay more for the solution than it costs to deliver it? (price-cost>0)
 
 # Q3. The “pull” approach to innovation starts with the ____; the “push” approach to innovation starts with the ____.
 - Customer; product
 - Solution; need
 - Product; customer
 - Need; solution
+- Anse
 
 # Q4. Which of the following is a common risk associated with the “push” approach to innovation?
 - This approach does not identify the need
