@@ -3,12 +3,17 @@
 - Segmenting helps you uncover new markets
 - Segmenting helps you identify a need
 - Segmenting helps you gain a competitive edge
+Answer: Segmenting helps you identify a need
 
 # Q2. Which of the following describes the correct sequence of identifying customer needs through user research?
 - (1) Gather raw data from customers (2) Interpret the data (3) Establish relative importance of the needs (4) Organize the needs by type
 - (1) Interpret the data (2) Gather raw data from customers (3) Organize the needs by type (4) Establish relative importance of the needs
 - (1) Establish relative importance of the needs (2) Gather raw data from customers (3) Interpret the data (4) Organize the needs by type
 - (1) Gather raw data from customers (2) Interpret the data (3) Organize the needs by type (4) Establish relative importance of the needs
+- Answer.
+How to get raw data from customers.
+- survey (massive population), focus group with customers (small group), interviews (1-on-1 format)
+
 
 # Q3. True or False? The marginal increase in percent of customer needs identified generally decreases as the number of one-on-one interviews increase
 
