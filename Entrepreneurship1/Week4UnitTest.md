@@ -88,7 +88,7 @@ Does your enterprise's advantage come from a unique, proprietary design?
 - It is fast and provides users a full sense of the system
 - It requires less technical expertise
 - All answers are true
-- Answer: It is fast and provides users a full sense of the system
+- Answer:  It requires less technical expertise
 Why bother prototyping?
 - Serves 2 mainpurpuse.
 - 1. To clarify user interface to user and/or developer
@@ -99,8 +99,8 @@ Benefits:
 - Increase product quality by ensuring  UX & UI are clear before implementation
 Types of prototypes:
 - Trowaway prototyping
-Create a model of the final sysstem that user can evaluate.
-Relatively faster method to prototype
+Create a model of the final system that user can evaluate.
+Relatively fast method to prototype
 - Evolutionary prototyping
 Build only portions of the system, and prototype evoles to become the final product.
 
