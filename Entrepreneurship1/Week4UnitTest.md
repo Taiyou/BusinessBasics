@@ -48,8 +48,7 @@
 - Interactive and low/medium fidelity
 - Static and of medium/high fidelity
 
-# Q10.
-What is a characteristic of the “Wizard of Oz” approach to prototyping services?
+# Q10. What is a characteristic of the “Wizard of Oz” approach to prototyping services?
 - None of these are true
 - Consumer is only presented with one part of the service
 - Consumer is unaware of the back end operations
