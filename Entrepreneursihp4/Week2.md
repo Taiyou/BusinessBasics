@@ -183,6 +183,81 @@
 5. money might be divided into tranches - aka portions of money that are gradually given to you depending on whether your company meets it targets.
 
 ## two other options relevant for larger firms
-- private equity-
+- private equity: PE firms focus on more mature firms
+- IPO: is the process when a private company changes to a public company
+1. public meaning that anyone can now buy shares via public means
+2. IPO's also allow companies to raise money, but this time from a larger audience.
 
-- working with a VC
+# Financing: rounds and raises
+- where does the money come from? (technology)
+
+## terminology of fundraising
+- raising happens in rounds
+1. frineds and family ore pre-seed (under$1M)
+2. seed (under $2M)
+3. A, B, C... VC territory
+- each round give up 10%-40% of the company
+1. early rounds my use convertible debt
+2. later rounds are equity and use preferred stcok
+- you may use different funding vehicles
+- stage of company
+- idustry area of interest
+- type of VCs interested in your area
+
+## VC vs. angel vs. super angle vs. seed incubators
+- quity depends on fields.
+- many trades off
+1. current environment if friendly to entrepreneurs throught series A
+2. Series A crunch
+3. many new ways to getting investment
+
+# Equity financing: valuation
+- value
+1. defined by the price of a transaction between a willing buyer and a willing seller, usually an investor and a company
+2. In any specific case, value is determined through negotiation.
+3. Ideally that negotiated value reflects the fundamental financial value of the company based on the long-term expected cash flows.
+
+## Why do you need to value the business?
+1. you do not need to establish a value for the business unless you are going to sell a fraction of the company to another party.
+2. In that case, the buyer and seller have to agree on a price. What fraction of the company does the investment purchase?
+
+## it is everyone's interest to etimate value accurately!
+- if too high, your investor won't make a good return. not fair nor good for your reputation
+- if too low, not good for your motivation and team.
+
+## Some approaches
+1. value of the inputs
+2. comparable companies and transactions
+3. discounting for time and risk from some estimated future value
+4. multiple of earnings 
+
+## 1. valuation based on the value of the inputs
+- 6 months of sweat by two recent colledge graduates (100,000 USD)
+- cash for initial expenses (25,000 USD)
+- commitment of two team members to work the next 6 months with no pay - weat equity (100,000 USD)
+- the idea itself intellectual property (25,000 USD)
+- could logically argue the business is worth 250,000 USD.
+- investors will pay 25,000 USD owning 11% of the company 
+
+## 2. valueation based on comparable deals
+- 
+
+## 3. discounting for time and risk based on some future outcome
+- PWERM - probability weighted expected return method
+1. define several outcome scenarios for some future date.
+2. estimate the probabilities of those ecenarios
+3. calculate a risk-adjusted future value
+4. discount that value to the present using the investor's opporunity cost of capital
+
+## 4. value vased on earnings
+1. for companies with positive cash flow and several years of operating history, can base valueation on earnings.
+2. usually use EBITDA (earnings before interest, taxes, depreciation, and amortization)
+3. a multiple is applied EBITDA, but could be 5x or 50x depending on the sector and ancitipated growth rate.
+4. publicaly traded companies in the U.S. are valued at an average of about 15x EBITDA in 2016, but for instance Amazon is valued at 400x EBITDA.
+
+## kick the valuation question down the road
+1. convertible notes
+2. investor puts in seed capital as a loan
+3. loan converts to equity when and if an institutional ivector provides more capital
+4. usually converts at a discount and usually has a cap of some amount.
+
