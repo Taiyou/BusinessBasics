@@ -261,3 +261,40 @@
 3. loan converts to equity when and if an institutional ivector provides more capital
 4. usually converts at a discount and usually has a cap of some amount.
 
+# quiz
+## 1. What percent of small businesses have raised money from friends and family?
+## Answer: 72%
+## 2. What is an advantage of financing a business through loans?
+## Answer: Maintain control of the business
+## 3. Which of the following statements about angel investments is NOT true?
+- Angel investors are specifically looking at investment opportunities in the technology sector
+- Angel investors are looking for “home runs” of about 10x
+- Angels investors look for high growth in young, unproven companies
+- All of these are true
+## Answers: Angel investors are specifically looking at investment opportunities in the technology sector
+## 4. Which of the following financing pathways provide the least control to business owners?
+- Private Equity
+- Angel Investors
+- Venture Capital
+- IPO
+## Answer:
+## 5. With each round of fundraising, approximately what portion of the company equity is given up?
+## Answers: 10-40%
+## 6. Which of the following financing options typically provides the largest amount of investment?
+- Super angel
+- Venture capital
+- Angel investors
+- Accelerator
+## Answers: venture capital
+## 7. In 2012, which of the following areas received significantly more investments from angel investors than from venture capitalists?
+- Biotechnology
+- Retailing/distribution
+- Consumer products and services
+- Software (not true)
+## Answers: 
+## 8. What is the post-money valuation if the pre-money value is $2M and an investor invests $4M?
+## Answers: $6M
+## 9. Which of the following statements about convertible debt is not true?
+## Answers: Investors will not be able to put a limit on the valuation at which investors’ notes convert to equity
+## 10. If a company raises a $5 million Series A round from an investor at a $20M post-money valuation, and later the company raises $10M at a $100M valuation, how much more must the investor invest to keep his/her original stake?
+## Answers: $2.5M
