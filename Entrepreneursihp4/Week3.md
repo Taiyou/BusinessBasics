@@ -336,4 +336,4 @@ business.
 - Does not take variable costs into account
 - Assumes fixed level of spending
 - Margin cannot be calculated
-## Answers: 
+## Answers:  Assumes fixed level of spending
