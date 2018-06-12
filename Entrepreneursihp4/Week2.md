@@ -277,7 +277,7 @@
 - Angel Investors
 - Venture Capital
 - IPO
-## Answer:
+## Answer: private equity
 ## 5. With each round of fundraising, approximately what portion of the company equity is given up?
 ## Answers: 10-40%
 ## 6. Which of the following financing options typically provides the largest amount of investment?
@@ -291,7 +291,7 @@
 - Retailing/distribution
 - Consumer products and services
 - Software (not true)
-## Answers: 
+## Answers: retailing/distribution
 ## 8. What is the post-money valuation if the pre-money value is $2M and an investor invests $4M?
 ## Answers: $6M
 ## 9. Which of the following statements about convertible debt is not true?
