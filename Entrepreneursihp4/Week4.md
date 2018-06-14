@@ -1,15 +1,18 @@
 # Executive Summary and Pitch Desk 
 - common area of confusion when trying to raise funding is the difference between the Eecutive summary and the pitch deck
 - want to create a clear division between these two pieces of information and how to best ues them
+
 ## important vabeat...
 - executive summaries and pitch are not s tatic
 - they also change based on who are you talking to
 - example
 - the information is different if you are speaking to an industry expert as opposed to someone not faimliar with the problem you are trying to solve
+
 ## goals for your pitch deck
 - your Decks are not meant to raise money
 - you decks are the way to have the next set of conversations
 - having multiple conversations, building understanding and relationships lead to raising money
+
 ## pitch deck: the problem
 - investors and entrepreneurs are by nature problem solvers and opportunity seekers
 - if you can actually convince your audience that they also recognize the gap you are trying to address you are starting the right track
@@ -194,9 +197,183 @@ en, but rather a business would target mean between 25 a
  ## key points
  - 6-8 paragraps
  - purposeful
- - 
  
-# Pro Forma financial Statements
+# Pro Forma Financial Statements
+• Pro forma (Latin for "as a matter of form”) means a forecast of future
+financial statements for your business prepared according to typical
+accounting conventions.
+• Analysis is generally done by month, for 36 months.
+• The three standard statements: income statement, cash flow statement,
+balance sheet.
+• Usually supported by a more detailed budget for the next 12 months.
+• What will you spend over the next 12 months?
+• Informs the use of proceeds from investment.
+
+
+## financial statement
+- income statement
+- cash flow statement
+- balance sheet
+
+## Questions Answered by Pro Forma Financial Statements
+1. What do I believe this business could look like financially in the future?
+• And therefore what might it be worth?
+2. What is the relationship between my key performance indicators (the
+managerial parameters) and financial performance?
+3. How much cash do I need for working capital and for losses I sustain
+prior to breaking even?
+4. Is my operating plan internally consistent and financially feasible?
+
+## EBITDA	=	
+earnings	before	interest,	taxes,	
+depreciation,	and	amortization
+Often	used	for	valuation	calculations	
+for	more	mature	companies.
+
+## Use a Managerial Model to Drive the Numbers
+- Every business has different revenue and cost drivers, so create those that make your plan easiest to understand.
+
+## Which Scenario Do you show?
+- Realistic plan, conservative plan, or optimistic plan?
+- In my 28 ventures, I've seen 3 expected the plan significantly.
+- As a matter of practice most entrepreneurs show the 80-90th percentile scenario before there is significant revenue.
+1. as a company matures, operating plans and budgets tend to become more realistic.
+2. Not ideal, but is the reality of much of current behaavior...
+3. Generally bad form to assert "these are "Conservative assumptions" They almost never are!
+
+## Some Best Practices
+- Build your model using key revenue and cost drivers (and othe rparameters) so your assumptions are clear.
+- start with the income statement and use that to drive the cash flow statement and balance sheet.
+- use detailed worksheets to drive summary sheets.
+- model monthly, typically for 36 months
+
+## Practical Advice
+- You need to know some accounting. At a minimum, take an on-line course
+- Start by building your own monthly income statement using a spreadsheet, and based on your key revenue and cost drivers.
+- But, getting the Cash flow statement and Balance Sheet to link properly can be tricky.
+- Engage a partner or consultant show is good with spreadsheets, if you are not.
+- Free Excel templates 
+- Paid services such as may also be useful.
+
 # Entrepreneurial Exit
+## What is an entrepreneurial exit & why is it important?
+- forms of entrepreneurial liquidty
+- Importance: shareholder liquidity; possible strategic effects
+
+## Acquisitions / buyouts
+- Pros: organizational synergies; faster resource acquisition
+relative to organic development; shareholder liquidity (range of
+possible terms, however)
+- Cons: possible loss of control
+
+## Public offerings
+- Pros: visibility/credentialing; currency for acquisitions; shareholder liquidity
+- Cons: hard to “time” the market (no objective threshold for a public offering); costs (direct and indirect)
+
+## Public offerings
+- “In retrospect, Mr. Hastings [the founder of Netflix] wishes he had
+waited longer to go public ... ‘In hindsight, what triggered Amazon
+and Blockbuster to compete with us is they could see how
+profitable we were and how fast we were growing.’” – New York
+Times, 2/22/05 p. G8
+- “Ultimately, the biggest pressure to go public may be from
+Google's employees. ...for many engineers and executives who
+have earned stock options in the last few years, a public offering
+is all that stands between them and a sports car, a beach house
+or a year in Tibet.” – New York Times, 4/26/04
+
+## The U.S. public offering process
+- Underwriters (usually a syndicate, with a lead) is selected
+- Lead underwriter duties: market the offering (conducts due
+diligence, prepare marketing materials for the “road show”,
+prepares a preliminary prospectus and regulatory filings);
+determine the offering size and allocate shares to investors; price
+the offering (“underpricing” is common); and after the IPO
+monitors the price and possibly offer price support 
+
+## Research: “Entrepreneurial Exits and Innovation”
+- Research question: what is the relationship between
+entrepreneurial exit modes and innovation outcomes?
+- “Counterfactuals” often difficult to establish (e.g., what if a given
+company would have gone public rather than been acquired?)
+- Going public requires public disclosures and projects are
+compared to expectations; both may affect innovation outcomes.
+- Longitudinal dataset of ~400 biotechnology firms, some
+completing an IPO or M&A; others “nearly” completing those
+liquidity events; innovation measured through patents.
+- Innovation patterns: private ownership > M&A > public ownership
+- Published as: VA. Aggarwal and DH. Hsu, 2014. “Entrepreneurial Exits and Innovation,”
+Management Science, 60: 867-887
+
 # Course Wrap-Up
+
 # Quiz
+## Q1. What is the goal for your pitch deck?
+1. To get to the next set of conversations
+2. To detail everything there is to know about your company
+3. To raise money
+4. To convince investors they will miss out if they do not invest
+## Answers: To get to the next set of conversations
+
+## Q2. How should you NOT emphasize your solution in your pitch deck?
+1. Use pictures and stories
+2. Describe customers using your product
+3. Be super product focused
+4. Explain the benefits to the customers
+## Answers: Be super product focused
+
+## Q3. Good executive summaries should ___.
+- Describe financials and your entire model in detail
+- Be adapted according to what the investors already know
+- Include names of all the notable people you know
+- Overstate numbers to make the opportunity look more attractive
+## Answers: Be adapted according to what the investors already know
+
+## Q4. All of the following are true of pro forma financial statements EXCEPT ___.
+- They are an accounting of your actual financial performance
+- Analysis is generally done by month
+- They include three standard forms: income statement, cash flow statement, and balance sheet
+- They are usually supported by a more detailed budget for the next 12 months
+## Answers: They are an accounting of your actual financial performance
+
+## Q5. In preparing pro forma financial statements, start with the ___.
+- Cash flow statement
+- Statement of equity
+- Balance sheet
+- Income statement
+## Answers: Income statement
+
+## Q6. Revenue and cost numbers in the model should be ___.
+- Entered directly based on best estimates
+- Based on operating parameters of the business
+- Based on numbers that are needed to achieve the desired results
+- Multiplied by a constant multiplier from historical data
+## Answers: Based on operating parameters of the business
+
+## Q7. All of the following are examples of stakeholder liquidity or exits EXCEPT ___.
+- Buyout of shares
+- Debt financing
+- Mergers and acquisitions
+- Initial public offerings
+## Answers: Debt financing
+
+## Q8. If organizational synergies and faster resource acquisition are more important to you, you may want to consider ___.
+- Private ownership
+- Mergers and acquisitions
+- Buyout of shares
+- Initial public offerings
+## Answers: Mergers and acquisitions
+
+## Q9. A public offering may have potential disadvantages such as ___.
+- Higher costs, both direct and indirect
+- It is hard to time the market, and there is no objective threshold
+- All of these are true
+- It provides competitors with insight into your competitive position
+## Answers: All of these are true
+
+## Q10. If innovation is more important to you, you may want to consider ___.
+- Private ownership
+- Buyout of shares
+- Mergers and acquisitions
+- Initial public offerings
+## Answers: Private ownership
