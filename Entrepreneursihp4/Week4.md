@@ -110,8 +110,92 @@ en, but rather a business would target mean between 25 a
  2. how does it help you achieve your business goal.
  - if you already have investors - ask them why they chose to invest.
  
+ ## other potential information
+ - exit strategy
+ - partnerships
+ - demo/screenshots
+ 1. technical documentation
+ 2. detailed models
+ 
+ ## making the pitch successful
+ - keep it simple - be simple and leave room for questions
+ - skipp the bullets
+ - use large fonts and limit words per slide
+ - use images when possible
+ - send your deck as a .pdf
+ - must tell a story, get your audience excited.
+ 
+ ## executive summary
+ - 2 or 3 page overview of your business in .pdf format sharable
+ - not graphical - paragraph in nature and often initial connection
+ - focus on the core of the business
+ - purpose is to get a longer meeting
+ 
+ ## the opening sentence
+ - lead with a truly inspirational / compelling / powerful statement
+ 1. getreaders engaged fast 
+ 2. early sentences est the entire tone
+ 
+ - best practices:
+ 1. concise and explains unique solution to a big problem
+ 2. direct, specific, crisp language - not abstract and conceptual
+ 3. name dropping works if you can back it up
+ - well known advisorsh
+ - famouse people truly engaed on your board
+ 
+ ## your competitive advantage
+ - you have competition, dont say you do not have any
+ 1. at a minimum, you complete with the current way of doing business.
+ 2. soft reasons whey no on does
+ - usually a competitor exists: direct or substitute
+ 3. build a statement around your sustainable competitive advantage
+ - firs mover advantage doesnt count
+ 4. articulate unique benefits and advantages that you have
+ - make this point in one or two sentences.
+ 
+ ## model
+ - the executive summary is short and in written form, it's not where you explain/paste your entire .xls model
+ - but, need to explain how you will drive revenue and what your costs are 
+ - revenue
+ 1. where does revenues come from? from whom?
+ 2. why is your business scalable and efficient?
+ 3. what are the critical metrics?
+ 4. what revenue levels will you reach within three to five years?
+ - cost:
+ 1. what are the major cost drivers and how can they be managed?
+ 2. how can you scale costs across multiple opporunities to reduce them?
+ 
+ ## the team
+ - very important to explain the peple behind the idea/business
+ - do's and dont's
+ 
+1. avoid saying things like: we have 100 yrs of combined expertise in solar
+2. do say our lead solar scientist was the CTO at XYZ market leader
+3. dont' go into detail on each founder's resume
+4. do explain why the tem's background fits
+5. dont' drop names of people/companies that you can't back up
+6. do state names of relevant people or companies that you can connect with investors to provide as references.
 
-
+  ## promise
+  - the main point: I will make you a lot of money
+  - your financial projections need to show it that If i grow to X size, you Y% is worth Z dollars.
+  1. obviously Z dollars should be an interesting number
+  - the numbers MUST be believable
+  1. in your projections make sure your assumptions are resonable and underpinned
+  2. sanity check number: i.e. if you say only need 10,000 customers yr 1
+  3. dont say you only have 1 sales person starting mid-year 
+ 
+ ## ask
+ - the ask is about being clear on what h are looking for in terms of money
+ - generally this is the minimum equity you need to sell to get to the next milestone
+ - if you expect to raise another round of financing later, make that clear, and if possible stat
+ e the amount.
+ 
+ ## key points
+ - 6-8 paragraps
+ - purposeful
+ - 
+ 
 # Pro Forma financial Statements
 # Entrepreneurial Exit
 # Course Wrap-Up
